@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       <div className="counter">
+        <h3>First React App</h3>
         <p className="counter_text">{counter}</p>
         <button
           className="button-style button-style--large"
